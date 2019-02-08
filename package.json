@@ -9,6 +9,7 @@
   "author": "Kara Bayse",
   "license": "ISC",
   "dependencies": {
+    "nodemon": "^1.18.9",
     "uuid": "^3.3.2"
   }
 }
